@@ -1,0 +1,17 @@
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\AcuCafe\AcuCafe\AcuCafeTests\obj\Debug\netcoreapp2.1\AcuCafeTests.csprojAssemblyReference.cache
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\AcuCafe\AcuCafe\AcuCafeTests\obj\Debug\netcoreapp2.1\AcuCafeTests.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\AcuCafe\AcuCafe\AcuCafeTests\obj\Debug\netcoreapp2.1\AcuCafeTests.AssemblyInfoInputs.cache
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\AcuCafe\AcuCafe\AcuCafeTests\obj\Debug\netcoreapp2.1\AcuCafeTests.AssemblyInfo.cs
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\AcuCafe\AcuCafe\AcuCafeTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\AcuCafe\AcuCafe\AcuCafeTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\AcuCafe\AcuCafe\AcuCafeTests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\AcuCafe\AcuCafe\AcuCafeTests\bin\Debug\netcoreapp2.1\AcuCafeTests.deps.json
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\AcuCafe\AcuCafe\AcuCafeTests\bin\Debug\netcoreapp2.1\AcuCafeTests.runtimeconfig.json
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\AcuCafe\AcuCafe\AcuCafeTests\bin\Debug\netcoreapp2.1\AcuCafeTests.runtimeconfig.dev.json
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\AcuCafe\AcuCafe\AcuCafeTests\bin\Debug\netcoreapp2.1\AcuCafeTests.dll
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\AcuCafe\AcuCafe\AcuCafeTests\bin\Debug\netcoreapp2.1\AcuCafeTests.pdb
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\AcuCafe\AcuCafe\AcuCafeTests\bin\Debug\netcoreapp2.1\AcuCafe.dll
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\AcuCafe\AcuCafe\AcuCafeTests\bin\Debug\netcoreapp2.1\AcuCafe.pdb
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\AcuCafe\AcuCafe\AcuCafeTests\obj\Debug\netcoreapp2.1\AcuCafeTests.csproj.CopyComplete
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\AcuCafe\AcuCafe\AcuCafeTests\obj\Debug\netcoreapp2.1\AcuCafeTests.dll
+C:\Users\Michael\Documents\Visual Studio 2017\Projects\AcuCafe\AcuCafe\AcuCafeTests\obj\Debug\netcoreapp2.1\AcuCafeTests.pdb
